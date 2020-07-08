@@ -1,0 +1,6 @@
+html,body{
+    /* 公共样式 在入口文件中引入 */
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
